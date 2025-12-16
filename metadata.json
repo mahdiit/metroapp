@@ -1,0 +1,5 @@
+{
+  "name": "Tehran Metro Pathfinder",
+  "description": "A smart metro routing application that calculates the optimal path between stations based on crowd density and line connections using a weighted graph algorithm.",
+  "requestFramePermissions": []
+}
